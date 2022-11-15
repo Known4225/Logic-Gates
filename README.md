@@ -1,7 +1,7 @@
 # Logic-Gates
 A small program for building logic circuits
 
-Install: Download Logic Gates.html and run it in your browser of choice.
+Install: Download LogicGates.html and run it in your browser of choice.
 
 Usage:
 
