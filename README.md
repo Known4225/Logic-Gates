@@ -57,7 +57,7 @@ h - toggle sidebar
 
 All the data for a Logic Gates™ setup is in just 5 lists, some of which store redundant information. File sizes are around 60 bytes per component. The only way to save and load data is with k and l keybinds. Save data in separate txt files.
 
-POWER POWER NOT AND OR AND POWER -103 29 90 -101 -21 90 4 -17 90 -51 -19 90 -48 22 90 36 15 90 81 15 90 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 4 0 2 2 1 2 2 1 2 5 3 1 6 0 2 5 0 1 5 0 2 4 0 1 4 0 4 3 0 5 6 0 3 6 1 6 7 0 - Example XOR
+POWER POWER NOT AND OR AND POWER -103 29 90 -101 -21 90 4 -17 90 -51 -19 90 -48 22 90 36 15 90 81 15 90 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 4 0 2 2 1 2 2 1 2 5 3 1 6 0 2 5 0 1 5 0 2 4 0 1 4 0 4 3 0 5 6 0 3 6 1 6 7 0 - Example XOR setup
 
 ToDo:
 
