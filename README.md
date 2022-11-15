@@ -66,8 +66,6 @@ Undo/Redo commands (very difficult, might require compact encoding)
 
 Configurable keybinds - possibly just in code
 
-User interface/Sidebar - might be unecessary
-
 Custom gate creator
 
 Multiplexer component
