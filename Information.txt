@@ -1,3 +1,6 @@
+To use:
+Run LogicGates.html, hit the L key on your keyboard and paste in the text from either "Two 7 Segment Displays.txt" or "4 bit ALU.txt"
+
 7 Segment Displays:
 Use the two 4 bit inputs at the top to change the number displayed
 
