@@ -8,6 +8,8 @@ Usage:
 Create logic circuits by summoning components with keybinds and click and drag mechanics to wire and rearrange components.
 This project has support for 8 types of unique components with all the infinite possibilities of functional completeness
 
+I've included extra text files which you can copy paste directly into the import feature, and information on how they work.
+
 The full list of keybinds:
 
 1, e, p - POWER component (input/output)
